@@ -1,0 +1,12 @@
+[basecamp_user]
+=username
+
+[basecamp_pass]
+=password
+
+[basecamp_userid]
+=userid
+
+[basecamp_header]
+=User-Agent: MyApp (e-mail)
+

@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.ini
+.log
+.tmp
+/temp/*
+/bin/*
+src/basecamp.ini
+*.log
+*.tmp
